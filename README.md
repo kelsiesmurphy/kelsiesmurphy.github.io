@@ -1,4 +1,4 @@
 # kelsiesmurphy.github.io
-Kelsie Murphy's personal website
+Experimenting with Github Pages
 Hello World
   Whats up
